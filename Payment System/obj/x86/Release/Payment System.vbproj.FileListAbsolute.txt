@@ -1,0 +1,49 @@
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.frmAbout.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.frmLogIn.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.frmPassword.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.frmCollection.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.frmInvoice.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.frmOption.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.frmPayorListofPayment.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.frmAddStudent.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.frmRecord.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment_System.Resources.resources
+E:\Desktop\To Do\Payment System\Payment System\obj\x86\Release\Payment System.vbproj.GenerateResource.Cache
+E:\Desktop\Payment System Portable\Payment System\bin\Release\Payment System.exe
+E:\Desktop\Payment System Portable\Payment System\bin\Release\Payment System.pdb
+E:\Desktop\Payment System Portable\Payment System\bin\Release\Payment System.xml
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment System.vbproj.ResolveComReference.cache
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmConfigure.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmAbout.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmLogIn.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmPassword.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmCollection.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmInvoice.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmOption.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmPayorListofPayment.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmAddStudent.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.frmRecord.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment_System.Resources.resources
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment System.vbproj.GenerateResource.Cache
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment System.exe
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment System.xml
+E:\Desktop\Payment System Portable\Payment System\obj\x86\Release\Payment System.pdb
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment System.vbproj.ResolveComReference.cache
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment System.exe
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment System.xml
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment System.pdb
+E:\Desktop\Payment System Server\Payment System\bin\Release\Payment System.exe
+E:\Desktop\Payment System Server\Payment System\bin\Release\Payment System.pdb
+E:\Desktop\Payment System Server\Payment System\bin\Release\Payment System.xml
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmConfigure.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmAbout.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmLogIn.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmPassword.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmCollection.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmInvoice.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmOption.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmPayorListofPayment.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmAddStudent.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.frmRecord.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment_System.Resources.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Release\Payment System.vbproj.GenerateResource.Cache

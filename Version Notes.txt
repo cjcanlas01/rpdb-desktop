@@ -1,0 +1,5 @@
+Payment System Server v2
+*Added database records reset and back up feature
+
+Payment System Server v2.1
+*Management panel on close even triggers a function to update record on main form

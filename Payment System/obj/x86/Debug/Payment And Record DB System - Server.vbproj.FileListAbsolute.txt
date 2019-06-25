@@ -1,0 +1,235 @@
+E:\Desktop\Payment System Server\Payment System\bin\Debug\Payment System.exe
+E:\Desktop\Payment System Server\Payment System\bin\Debug\Payment System.pdb
+E:\Desktop\Payment System Server\Payment System\bin\Debug\Payment System.xml
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+E:\Desktop\Install\Payment System Server\Payment System\bin\Debug\Payment System.exe
+E:\Desktop\Install\Payment System Server\Payment System\bin\Debug\Payment System.pdb
+E:\Desktop\Install\Payment System Server\Payment System\bin\Debug\Payment System.xml
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+E:\Desktop\Install\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\bin\Debug\Payment System.exe
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\bin\Debug\Payment System.pdb
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\bin\Debug\Payment System.xml
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+E:\Desktop\Payment & Record DB System Install\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmSelection.resources
+E:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbprojResolveAssemblyReference.cache
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\bin\Debug\Payment System.exe
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\bin\Debug\Payment System.pdb
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\bin\Debug\Payment System.xml
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbprojResolveAssemblyReference.cache
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmSelection.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+E:\Desktop\Payment & Record DB System\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+E:\Desktop\Database Files\Payment System Server\Payment System\bin\Debug\Payment System.exe
+E:\Desktop\Database Files\Payment System Server\Payment System\bin\Debug\Payment System.pdb
+E:\Desktop\Database Files\Payment System Server\Payment System\bin\Debug\Payment System.xml
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbprojResolveAssemblyReference.cache
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmSelection.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+E:\Desktop\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+E:\Desktop\TEMP\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+E:\Desktop\TEMP\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+E:\Desktop\TEMP\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+E:\Desktop\TEMP\Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\bin\Debug\Payment System.exe
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\bin\Debug\Payment System.pdb
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\bin\Debug\Payment System.xml
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbprojResolveAssemblyReference.cache
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmSelection.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\bin\Debug\Payment System.exe
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\bin\Debug\Payment System.pdb
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\bin\Debug\Payment System.xml
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbprojResolveAssemblyReference.cache
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmSelection.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+H:\Desktop\TEMP\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbprojResolveAssemblyReference.cache
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmSelection.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\bin\Debug\Payment System.exe
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\bin\Debug\Payment System.pdb
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\bin\Debug\Payment System.xml
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAdminPanel.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment System.exe
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment System.xml
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment System.pdb
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbprojResolveAssemblyReference.cache
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAdminPanel.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmSelection.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+H:\Desktop\Payment System Server\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+H:\Desktop\Payment System Server\Payment System\bin\Debug\Payment System.exe
+H:\Desktop\Payment System Server\Payment System\bin\Debug\Payment System.pdb
+H:\Desktop\Payment System Server\Payment System\bin\Debug\Payment System.xml
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment System.exe
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment System.xml
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment System.pdb
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\bin\Debug\Payment System.exe
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\bin\Debug\Payment System.pdb
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\bin\Debug\Payment System.xml
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbprojResolveAssemblyReference.cache
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmAdminPanel.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmSelection.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+H:\Desktop\TEMP\PROJECTS\R&PDBS Database Files\Program Files\Versions\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.ResolveComReference.cache
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment System.exe
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment System.xml
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment System.pdb
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\bin\Debug\Payment System.exe
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\bin\Debug\Payment System.pdb
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\bin\Debug\Payment System.xml
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbprojResolveAssemblyReference.cache
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmAdminPanel.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmSelection.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmConfigure.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmAbout.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmLogIn.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmPassword.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmCollection.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmInvoice.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmOption.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmPayorListofPayment.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmAddStudent.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.frmRecord.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment_System.Resources.resources
+D:\Documents\RPDB\Payment System Server v2.1\Payment System\obj\x86\Debug\Payment And Record DB System - Server.vbproj.GenerateResource.Cache
